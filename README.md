@@ -1,1 +1,1 @@
-
+Enthusiast in website development, has experience developing company websites, project with friends, with advanced skills in PHP, HTML, SQL and Python. Have intermediate in Computer Vision and beginer in Data Science.
