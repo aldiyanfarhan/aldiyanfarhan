@@ -1,2 +1,2 @@
-Enthusiast in website development, has experience developing company websites, project with friends, with advanced skills in PHP, HTML, SQL and Python. Have intermediate in Computer Vision and beginer in Data Science.
+Enthusiast in website development, has experience developing company websites, project with friends, having skills in PHP, HTML, SQL and Python for Data Science.
 Check My Porto At https://aldiyanfarhan.github.io/aldiyanfarhan/ (Under Development)
